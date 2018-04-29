@@ -254,7 +254,7 @@ Git服务器的程序有很多人开，目前比较有名的程序有：
         `sc create gitea binPath= "D:\Gitea\gitea-1.4.0-windows-4.0-386.exe" start= auto`    
     ![gitea_install0020](./img/gitea_install0020.png)
         
-1. 通过任务管理器查看服务已启动。
+1. 通过任务管理器查看服务已启动。  
 ![gitea_install0030](./img/gitea_install0030.png)
 
 1. 通过[http://192.168.1.16:3000/]访问，验证服务安装成功。  
