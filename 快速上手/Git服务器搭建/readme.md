@@ -1,7 +1,7 @@
 
 ## Git服务器搭建
 
-<font color="red">本部分仅建议服务器管理人员使用查看</font>  
+<p><font color="red">本部分仅建议服务器管理人员使用查看</font></p>  
 
 Git服务器的程序有很多人开，目前比较有名的程序有：
 * **Gitblit：** 使用java开发，多平台可以使用
