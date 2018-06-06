@@ -32,6 +32,18 @@
 | 4 | service.doc | 张三 | 延长了免费升级周期 | 7/14 15:17 |
 > 这样，你就结束了手动管理多个“版本”的史前时代，进入到版本控制的20世纪。
 
+## 软件下载地址
+
+1. Git Windows版本 : [官方](https://git-scm.com/download/win)   [淘宝镜像](https://npm.taobao.org/mirrors/git-for-windows/)
+1. TortoiseGit : [官方](https://tortoisegit.org/download/)
+1. Gitea : [官方](https://dl.gitea.io/gitea/)  [Github](https://github.com/go-gitea/gitea/releases)
+
+------
+其他 gui软件
+1. SmartGit ： [官方](https://www.syntevo.com/smartgit/download/)
+1. SourceTree ： [官方](https://www.sourcetreeapp.com/)
+1. VsCode : [官方](https://code.visualstudio.com/)  *安装GitLens插件效果更好*
+
 ## 快速上手
 这里包含了一组让Git的使用样例，通过样例让您快速了解Git简单的使用方法，并将其运用到工作中。
 
