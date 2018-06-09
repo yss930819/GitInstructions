@@ -147,6 +147,6 @@ int add(int a,int b){
 ![git_use_local105](./img/git_use_local101.png)
 
 1. 然后见证奇迹**add.c**文件回来了！  
-![git_use_local105](./img/git_use_local102png)
+![git_use_local105](./img/git_use_local102.png)
 
 时光机还能帮我们进行版本比较，不过这个功能就留到高手进阶再介绍了~
