@@ -40,7 +40,7 @@
 
 ------
 其他 gui软件
-1. SmartGit ： [官方](https://www.syntevo.com/smartgit/download/)
+1. SmartGit ： [官方](https://www.syntevo.com/smartgit/download/) *经测试该软件更为好用，但是软件全为英文*
 1. SourceTree ： [官方](https://www.sourcetreeapp.com/)
 1. VsCode : [官方](https://code.visualstudio.com/)  *安装GitLens插件效果更好*
 
@@ -58,7 +58,7 @@
 
 - [Git协作之旅](./快速上手/Git协作之旅/)  
     本部分介绍了，使用Gitea的简单方法，主要为项目的克隆、拉取和推送。
-
+     
 - [疑难解答](./快速上手/疑难解答/)  
     本部分总结了新手可能遇到的各种问题，当遇到问题时就及时看过来吧~~
 
