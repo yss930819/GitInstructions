@@ -172,8 +172,12 @@
 
 					{{if .IsSigned}}
 						<div class="right stackable menu">
+							<p class="item" >
+								<strong><font color="red">请随时使用GIT，保存你的工作！</font></strong>
+							</p>
+
 							<a class="item" href="http://baidu.com">
-									<i class="octicon octicon-light-bulb"></i> 帮助
+									<i class="octicon octicon-light-bulb"></i> {{.i18n.Tr "help"}}<!-- Help -->
 							</a>
 
 							<a href="{{AppSubUrl}}/notifications" class="item poping up" data-content='{{.i18n.Tr "notifications"}}' data-variation="tiny inverted">
